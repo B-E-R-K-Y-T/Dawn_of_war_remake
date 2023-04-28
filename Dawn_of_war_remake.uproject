@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{CFD53682-4BFA-E926-73C9-12AA24FD4E04}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Dawn_of_war_remake",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
